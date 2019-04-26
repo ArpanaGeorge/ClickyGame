@@ -1,33 +1,125 @@
-.App {
-  text-align: center;
+body {
+  background: url(/img/bg-main.jpg);
+  object-fit: cover;
+ /*
+  width: 100%;
+  height: auto;
+  */
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.App {
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+  height: 150vh;
+  color: black;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  height: 30px;
+  color: black;
+  padding-bottom: 5px;
+  margin: 3px;
+}
+
+.App-header h1 {
+  font-weight: 400;
+  font-size: 46px;
+  margin: 3px;
+}
+
+.App-header h2{
+  font-size: 16px;
+  font-weight: 300;
+  margin: 3px;
+}
+
+.Board h4{
+  font-size: 28px;
+  font-weight: 300;
+  color: deeppink;
+  padding-top: 20px;
+  margin: 2px;
+}
+h4 {
+  padding: 10px 5px 5px 5px;
+  margin: 10px 10px 0px 10px;
+}
+.score-keeper {
+  padding: 5px;
+  margin: 2px;
+  font-size: 28px;
+}
+.character-box{
+  height: 50vh;
+  padding: 25px 5px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
-.App-link {
-  color: #61dafb;
+.character:hover {
+  transition: transform .5s ease-in-out;
+  transform: scale(1.05,1.05);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+.Footer {
+  position: fixed;
+  bottom: 0;
+  left: 30px;
+  color: deeppink;
+}
+
+.Footer a {
+  text-decoration: none;
+  color: deeppink;
+}
+
+.Footer h3 {
+  font-weight: 300;
+  font-family: 'Varela Round', sans-serif;
+}
+
+@media screen and (max-width: 1340px) {
+  img.profile-pic {
+    height: 140px;
   }
 }
+
+@media screen and (max-width: 780px) {
+  img.profile-pic {
+    height: 100px;
+  }
+  .App-header h1 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .App-header {
+    height: 90px;
+  }
+  
+  .App-header h1 {
+    font-size: 30px;
+  }
+
+  .Board h4 {
+    font-size: 24px;
+  }
+
+  .score-keeper {
+    font-size: 24px;
+  }
+
+  img.profile-pic {
+    height: 80px;
+  }
+
+}
+
+@media screen and (max-width: 412px) {
+  img.profile-pic {
+    height: 50px;
+  }
+}
+
