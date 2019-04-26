@@ -10,7 +10,7 @@ const Footer = () => {
                 direction={'top'}
                 length={'20px'}
                 duration={500}>
-                <a href="" target="_blank" rel="noopener noreferrer"><h3>Optimized for Lizzie</h3></a>
+                <p >@copyright</p>
             </FadeIn>
         </footer>
     )

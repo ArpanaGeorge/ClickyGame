@@ -65,8 +65,9 @@ h4 {
 .Footer {
   position: fixed;
   bottom: 0;
-  left: 30px;
-  color: deeppink;
+  left: 760px;
+  /* color: deeppink; */
+  text-align: center;
 }
 
 .Footer a {
