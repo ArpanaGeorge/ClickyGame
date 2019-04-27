@@ -1,5 +1,6 @@
 body {
-  background: url(/img/bg-main.jpg);
+  /* background: url(/img/bg-main.jpg); */
+  background-color: lightpink;
   /* object-fit: cover; */
  /*
   width: 100%;
