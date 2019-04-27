@@ -29,7 +29,7 @@ const initialChars = [
     },
     {
         name: 'heart',
-        img: 'img/250x180/heart.png',
+        img: 'img/250x180/heart.PNG',
         clicked: false
     },
     {
@@ -94,7 +94,7 @@ const initialChars = [
     },
     {
         name: 'dog',
-        img: 'img/250x180/dog.png',
+        img: 'img/250x180/dog.Png',
         clicked: false
     },
     {
