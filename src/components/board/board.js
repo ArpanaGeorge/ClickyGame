@@ -14,17 +14,17 @@ const shuffleArray = arr => (
 const initialChars = [
     {
         name: 'brinjal',
-        img: 'img/250x180/brinjal.jpg',
+        img: 'img/250x180/brinjal.JPG',
         clicked: false
     },
     {
         name: 'chocobar',
-        img: 'img/250x180/chocobar.jfif',
+        img: 'img/250x180/chocobar.JFIF',
         clicked: false
     },
     {
         name: 'duck',
-        img: 'img/250x180/duck.jfif',
+        img: 'img/250x180/duck.JFIF',
         clicked: false
     },
     {
@@ -34,17 +34,17 @@ const initialChars = [
     },
     {
         name: 'brain',
-        img: 'img/250x180/brain.jpg',
+        img: 'img/250x180/brain.JPG',
         clicked: false
     },
     {
         name: 'bear',
-        img: 'img/250x180/bear.jfif',
+        img: 'img/250x180/bear.JFIF',
         clicked: false
     },
     {
         name: 'baby2',
-        img: 'img/250x180/baby2.jfif',
+        img: 'img/250x180/baby2.JFIF',
         clicked: false
     },
     {
@@ -54,42 +54,42 @@ const initialChars = [
     },
     {
         name: 'hippo',
-        img: 'img/250x180/hippo.jfif',
+        img: 'img/250x180/hippo.JFIF',
         clicked: false
     },
     {
         name: 'chilli',
-        img: 'img/250x180/chilli.jfif',
+        img: 'img/250x180/chilli.JFIF',
         clicked: false
     },
     {
         name: 'cow',
-        img: 'img/250x180/cow.jfif',
+        img: 'img/250x180/cow.JFIF',
         clicked: false
     },
     {
         name: 'lettuce',
-        img: 'img/250x180/lettuce.jpg',
+        img: 'img/250x180/lettuce.JPG',
         clicked: false
     },
     {
         name: 'mango',
-        img: 'img/250x180/mango.jfif',
+        img: 'img/250x180/mango.JFIF',
         clicked: false
     },
     {
         name: 'pig',
-        img: 'img/250x180/pig.jfif',
+        img: 'img/250x180/pig.JFIF',
         clicked: false
     },
     {
         name: 'potato',
-        img: 'img/250x180/potato.jfif',
+        img: 'img/250x180/potato.JFIF',
         clicked: false
     },
     {
         name: 'cat',
-        img: 'img/250x180/cat.jfif',
+        img: 'img/250x180/cat.JFIF',
         clicked: false
     },
     {
@@ -99,7 +99,7 @@ const initialChars = [
     },
     {
         name: 'cow2',
-        img: 'img/250x180/cow2.jfif',
+        img: 'img/250x180/cow2.JFIF',
         clicked: false
     }
 ]
