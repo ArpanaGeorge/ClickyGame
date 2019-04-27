@@ -13,93 +13,93 @@ const shuffleArray = arr => (
 
 const initialChars = [
     {
-        name: 'brinjal',
-        img: 'img/250x180/brinjal.JPG',
+        name: 'image1',
+        img: 'img/250x180/image1.png',
         clicked: false
     },
     {
-        name: 'chocobar',
-        img: 'img/250x180/chocobar.JFIF',
+        name: 'image2',
+        img: 'img/250x180/image2.png',
         clicked: false
     },
     {
-        name: 'duck',
-        img: 'img/250x180/duck.JFIF',
+        name: 'image3',
+        img: 'img/250x180/image3.png',
         clicked: false
     },
     {
-        name: 'heart',
-        img: 'img/250x180/heart.PNG',
+        name: 'image4',
+        img: 'img/250x180/image4.png',
         clicked: false
     },
     {
-        name: 'brain',
-        img: 'img/250x180/brain.JPG',
+        name: 'image5',
+        img: 'img/250x180/image5.png',
         clicked: false
     },
     {
-        name: 'bear',
-        img: 'img/250x180/bear.JFIF',
+        name: 'image6',
+        img: 'img/250x180/image6.png',
         clicked: false
     },
     {
-        name: 'baby2',
-        img: 'img/250x180/baby2.JFIF',
+        name: 'image7',
+        img: 'img/250x180/image7.png',
         clicked: false
     },
     {
-        name: 'hotdog',
-        img: 'img/250x180/hotdog.jfif',
+        name: 'image8',
+        img: 'img/250x180/image8.png',
         clicked: false
     },
     {
-        name: 'hippo',
-        img: 'img/250x180/hippo.JFIF',
+        name: 'image9',
+        img: 'img/250x180/image9.png',
         clicked: false
     },
     {
-        name: 'chilli',
-        img: 'img/250x180/chilli.JFIF',
+        name: 'image10',
+        img: 'img/250x180/image10.png',
         clicked: false
     },
     {
-        name: 'cow',
-        img: 'img/250x180/cow.JFIF',
+        name: 'image11',
+        img: 'img/250x180/image11.png',
         clicked: false
     },
     {
-        name: 'lettuce',
-        img: 'img/250x180/lettuce.JPG',
+        name: 'image12',
+        img: 'img/250x180/image12.png',
         clicked: false
     },
     {
-        name: 'mango',
-        img: 'img/250x180/mango.JFIF',
+        name: 'image13',
+        img: 'img/250x180/image13.png',
         clicked: false
     },
     {
-        name: 'pig',
-        img: 'img/250x180/pig.JFIF',
+        name: 'image14',
+        img: 'img/250x180/image14.png',
         clicked: false
     },
     {
-        name: 'potato',
-        img: 'img/250x180/potato.JFIF',
+        name: 'image15',
+        img: 'img/250x180/image15.png',
         clicked: false
     },
     {
-        name: 'cat',
-        img: 'img/250x180/cat.JFIF',
+        name: 'image16',
+        img: 'img/250x180/image16.png',
         clicked: false
     },
     {
-        name: 'dog',
-        img: 'img/250x180/dog.Png',
+        name: 'image17',
+        img: 'img/250x180/image17.png',
         clicked: false
     },
     {
-        name: 'cow2',
-        img: 'img/250x180/cow2.JFIF',
+        name: 'image18',
+        img: 'img/250x180/image18.png',
         clicked: false
     }
 ]
