@@ -1,5 +1,5 @@
 body {
-  background: url(/img/bg-main.jpg);
+  background: url(/img/background-1.jpg);
   object-fit: cover;
  /*
   width: 100%;
@@ -36,7 +36,7 @@ body {
 .Board h4{
   font-size: 28px;
   font-weight: 300;
-  color: deeppink;
+  color: rgb(255, 20, 20);
   padding-top: 20px;
   margin: 2px;
 }
@@ -51,10 +51,13 @@ h4 {
 }
 .character-box{
   height: 50vh;
-  padding: 25px 5px;
+  padding: 40px 40px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  margin: 80px 80px;
+  justify-content: space-around;
+  align-content: space-around;
 }
 
 .character:hover {
@@ -72,7 +75,7 @@ h4 {
 
 .Footer a {
   text-decoration: none;
-  color: deeppink;
+  color: rgb(255, 20, 20);
 }
 
 .Footer h3 {

@@ -13,93 +13,93 @@ const shuffleArray = arr => (
 
 const initialChars = [
     {
-        name: 'image1',
-        img: 'img/250x180/image1.PNG',
+        name: 'brinjal',
+        img: 'img/250x180/brinjal.jpg',
         clicked: false
     },
     {
-        name: 'image2',
-        img: 'img/250x180/image2.PNG',
+        name: 'chocobar',
+        img: 'img/250x180/chocobar.jfif',
         clicked: false
     },
     {
-        name: 'image3',
-        img: 'img/250x180/image3.PNG',
+        name: 'duck',
+        img: 'img/250x180/duck.jfif',
         clicked: false
     },
     {
-        name: 'image4',
-        img: 'img/250x180/image4.PNG',
+        name: 'heart',
+        img: 'img/250x180/heart.png',
         clicked: false
     },
     {
-        name: 'image5',
-        img: 'img/250x180/image5.PNG',
+        name: 'brain',
+        img: 'img/250x180/brain.jpg',
         clicked: false
     },
     {
-        name: 'image6',
-        img: 'img/250x180/image6.png',
+        name: 'bear',
+        img: 'img/250x180/bear.jfif',
         clicked: false
     },
     {
-        name: 'image7',
-        img: 'img/250x180/image7.png',
+        name: 'baby2',
+        img: 'img/250x180/baby2.jfif',
         clicked: false
     },
     {
-        name: 'image8',
-        img: 'img/250x180/image8.png',
+        name: 'hotdog',
+        img: 'img/250x180/hotdog.jfif',
         clicked: false
     },
     {
-        name: 'image9',
-        img: 'img/250x180/image9.png',
+        name: 'hippo',
+        img: 'img/250x180/hippo.jfif',
         clicked: false
     },
     {
-        name: 'image10',
-        img: 'img/250x180/image10.png',
+        name: 'chilli',
+        img: 'img/250x180/chilli.jfif',
         clicked: false
     },
     {
-        name: 'image11',
-        img: 'img/250x180/image11.png',
+        name: 'cow',
+        img: 'img/250x180/cow.jfif',
         clicked: false
     },
     {
-        name: 'image12',
-        img: 'img/250x180/image12.png',
+        name: 'lettuce',
+        img: 'img/250x180/lettuce.jpg',
         clicked: false
     },
     {
-        name: 'image13',
-        img: 'img/250x180/image13.png',
+        name: 'mango',
+        img: 'img/250x180/mango.jfif',
         clicked: false
     },
     {
-        name: 'image14',
-        img: 'img/250x180/image14.png',
+        name: 'pig',
+        img: 'img/250x180/pig.jfif',
         clicked: false
     },
     {
-        name: 'image15',
-        img: 'img/250x180/image15.png',
+        name: 'potato',
+        img: 'img/250x180/potato.jfif',
         clicked: false
     },
     {
-        name: 'image16',
-        img: 'img/250x180/image16.png',
+        name: 'cat',
+        img: 'img/250x180/cat.jfif',
         clicked: false
     },
     {
-        name: 'image17',
-        img: 'img/250x180/image17.png',
+        name: 'dog',
+        img: 'img/250x180/dog.png',
         clicked: false
     },
     {
-        name: 'image18',
-        img: 'img/250x180/image18.png',
+        name: 'cow2',
+        img: 'img/250x180/cow2.jfif',
         clicked: false
     }
 ]
