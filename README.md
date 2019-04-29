@@ -25,7 +25,7 @@ This is a memory game with React.
 
 * Each image  listen for click events.
 
-* on onCharacterClick 
+* onCharacterClick 
     - if ( !this.state.characters[index].clicked )
             shuffled the characters and incremented score by 1
     - else
