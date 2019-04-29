@@ -14,27 +14,27 @@ const shuffleArray = arr => (
 const initialChars = [
     {
         name: 'image1',
-        img: 'img/250x180/image1.png',
+        img: 'img/250x180/image1.PNG',
         clicked: false
     },
     {
         name: 'image2',
-        img: 'img/250x180/image2.png',
+        img: 'img/250x180/image2.PNG',
         clicked: false
     },
     {
         name: 'image3',
-        img: 'img/250x180/image3.png',
+        img: 'img/250x180/image3.PNG',
         clicked: false
     },
     {
         name: 'image4',
-        img: 'img/250x180/image4.png',
+        img: 'img/250x180/image4.PNG',
         clicked: false
     },
     {
         name: 'image5',
-        img: 'img/250x180/image5.png',
+        img: 'img/250x180/image5.PNG',
         clicked: false
     },
     {
@@ -44,62 +44,62 @@ const initialChars = [
     },
     {
         name: 'image7',
-        img: 'img/250x180/image7.png',
+        img: 'img/250x180/image7.PNG',
         clicked: false
     },
     {
         name: 'image8',
-        img: 'img/250x180/image8.png',
+        img: 'img/250x180/image8.PNG',
         clicked: false
     },
     {
         name: 'image9',
-        img: 'img/250x180/image9.png',
+        img: 'img/250x180/image9.PNG',
         clicked: false
     },
     {
         name: 'image10',
-        img: 'img/250x180/image10.png',
+        img: 'img/250x180/image10.PNG',
         clicked: false
     },
     {
         name: 'image11',
-        img: 'img/250x180/image11.png',
+        img: 'img/250x180/image11.PNG',
         clicked: false
     },
     {
         name: 'image12',
-        img: 'img/250x180/image12.png',
+        img: 'img/250x180/image12.PNG',
         clicked: false
     },
     {
         name: 'image13',
-        img: 'img/250x180/image13.png',
+        img: 'img/250x180/image13.PNG',
         clicked: false
     },
     {
         name: 'image14',
-        img: 'img/250x180/image14.png',
+        img: 'img/250x180/image14.PNG',
         clicked: false
     },
     {
         name: 'image15',
-        img: 'img/250x180/image15.png',
+        img: 'img/250x180/image15.PNG',
         clicked: false
     },
     {
         name: 'image16',
-        img: 'img/250x180/image16.png',
+        img: 'img/250x180/image16.PNG',
         clicked: false
     },
     {
         name: 'image17',
-        img: 'img/250x180/image17.png',
+        img: 'img/250x180/image17.PNG',
         clicked: false
     },
     {
         name: 'image18',
-        img: 'img/250x180/image18.png',
+        img: 'img/250x180/image18.PNG',
         clicked: false
     }
 ]
