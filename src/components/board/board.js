@@ -151,7 +151,7 @@ export default class Board extends Component {
                     length={'30px'}
                     direction={'bottom'}
                     delay={'1s'}>
-                    {/* <h4>Now focus... just one click per character</h4> */}
+                    <h4>Now focus... just one click per character</h4>
                 </FadeIn>
                 <FadeIn 
                     in={true}
